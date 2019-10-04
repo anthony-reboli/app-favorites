@@ -1,0 +1,67 @@
+#menu {
+  margin: 0 ;
+  padding: 0 ;
+  list-style: none ;
+  text-align: center ;
+  margin-top:-95px;
+}
+
+#menu li {
+  display: inline ;
+  margin-right: 1px ;
+  color: #fff ;
+  background: #c00 ;
+}
+
+#menu li a {
+   padding: 4px 20px ;
+  background: #c00 ;
+  color: #fff ;
+  border: 1px solid #600 ;
+  font: 1em "Trebuchet MS",Arial,sans-serif ;
+  line-height: 1em ;
+  text-align: center ;
+  text-decoration: none ;
+}
+
+#menu li a:hover, #menu li a:focus, #menu li a:active {
+  background: #900 ;
+  text-decoration: underline ;
+}
+
+body {
+	background-image: url("https://stmed.net/sites/default/files/clash-of-clans-hd-wallpapers-32898-2695101.jpg")
+}
+img{
+		width: 20%;
+		height: 20%;
+}
+
+iframe {
+		width: 20%;
+		height: 20%;
+}
+
+h1 {
+	text-align:center;
+	color:#0AC6DE;
+}
+
+div#total div#total2 {
+	display-inline:block;
+			width: 20%;
+		height: 20%;
+}
+
+p { 
+	color:#200528;
+	font-size:25px;
+	font-family:Verdana;
+}
+
+div#text {
+margin-left: 50%;
+margin-top: -320px;
+		width: 40%;
+		height: 40%;
+}
