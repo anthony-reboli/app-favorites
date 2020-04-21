@@ -1,6 +1,7 @@
 body {
 	background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1612/Glares_spots_black_background-2016_High_Quality_HD_Wallpaper_1366x768.jpg");
 	background-repeat:no-repeat;
+  background-size: cover;
 }
 #menu {
   margin: 0 ;
@@ -54,4 +55,12 @@ font-size:35px;
 	height: 35%;
 	margin-left: 65%;
 	margin-top: -350px;
+}
+
+#imgappF{
+    height: 1%;
+    width: 90%;
+    margin-top: 12%;
+    margin-left: 6%;
+
 }
